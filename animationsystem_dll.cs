@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-07-17 01:18:19.676551500 UTC
+// 2026-07-17 01:19:19.874120100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: animationsystem.dll
