@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-07-17 01:19:19.874120100 UTC
+// 2026-07-17 04:46:05.409970900 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
