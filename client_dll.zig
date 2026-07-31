@@ -1,11 +1,11 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-07-29 04:51:45.648459900 UTC
+// 2026-07-31 19:12:13.867567100 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: client.dll
         // Class count: 563
-        // Enum count: 16
+        // Enum count: 14
         pub const client_dll = struct {
             // Alignment: 4
             // Member count: 5

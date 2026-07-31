@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-07-29 04:51:45.648459900 UTC
+// 2026-07-31 19:12:13.867567100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,7 +7,7 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
         // Class count: 563
-        // Enum count: 16
+        // Enum count: 14
         pub mod client_dll {
             // Alignment: 4
             // Member count: 5
