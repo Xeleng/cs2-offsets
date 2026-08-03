@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-08-03 12:13:25.792358300 UTC
+// 2026-08-03 22:07:26.964939400 UTC
 
 pub const cs2_dumper = struct {
     // Module: client.dll
