@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-07-31 19:12:13.867567100 UTC
+// 2026-08-03 12:13:25.792358300 UTC
 
 pub const cs2_dumper = struct {
     pub const offsets = struct {
