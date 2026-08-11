@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-08-03 22:07:26.964939400 UTC
+// 2026-08-11 23:31:53.094516800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
