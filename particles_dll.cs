@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-08-20 08:54:48.460913500 UTC
+// 2026-08-23 09:23:10.686586200 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: particles.dll
