@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-09-09 08:10:00.575741600 UTC
+// 2026-09-11 11:07:16.130868400 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
