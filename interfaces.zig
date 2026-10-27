@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-10-24 20:19:56.944458900 UTC
+// 2026-10-27 22:18:04.255255100 UTC
 
 pub const cs2_dumper = struct {
     pub const interfaces = struct {
@@ -194,10 +194,6 @@ pub const cs2_dumper = struct {
         // Module: v8system.dll
         pub const v8system_dll = struct {
             pub const Source2V8System001: usize = 0x34790;
-        };
-        // Module: vconcomm.dll
-        pub const vconcomm_dll = struct {
-            pub const VConComm001: usize = 0x3C750;
         };
         // Module: vphysics2.dll
         pub const vphysics2_dll = struct {

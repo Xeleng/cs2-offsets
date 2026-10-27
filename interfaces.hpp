@@ -1,5 +1,5 @@
 // Generated using https://github.com/Xeleng/cs2-dumper
-// 2026-10-24 20:19:56.944458900 UTC
+// 2026-10-27 22:18:04.255255100 UTC
 
 #pragma once
 
@@ -199,10 +199,6 @@ namespace cs2_dumper {
         // Module: v8system.dll
         namespace v8system_dll {
             constexpr std::ptrdiff_t Source2V8System001 = 0x34790;
-        }
-        // Module: vconcomm.dll
-        namespace vconcomm_dll {
-            constexpr std::ptrdiff_t VConComm001 = 0x3C750;
         }
         // Module: vphysics2.dll
         namespace vphysics2_dll {
